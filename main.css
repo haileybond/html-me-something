@@ -46,6 +46,8 @@ p {
     text-align: center;
     color: #36454f;
     font-family: Georgia;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 footer {
@@ -98,3 +100,6 @@ li a:hover {
     text-decoration: none;
 }
 
+#meet-pups {
+    color: #36454f;
+}
