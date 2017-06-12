@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 2rem;
+    margin: 1rem;
+}
+
+h1 {
+    color: #ef5921;
+    text-decoration: none;
+    font-family: 'Slabo 27px', serif;
+    text-align: center;
+}
+
+h2 {
+    color: #e69400;
+    text-decoration: none;
+    font-family: 'Slabo 27px', serif;
+    text-align: center;
+    padding: 1rem;
+}
+
+#tagline {
+    color: #e69400;
+    text-decoration: none;
+    font-family: 'Georgia';
+    text-align: center;
+}
+
+.article-images {
+    margin: 5px;
+    border: 3px solid white 
+}
+
+article {
+    background-color: #e0ebeb;
+    border: 1px solid white;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+p {
+    text-align: center;
+    color: #36454f;
+    font-family: Georgia;
+}
+
+footer {
+    background-color: #36454f;
+    padding: 2rem;
+}
+
+footer p {
+    color: white;
+}
+
+#nav-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    list-style: none;
+    padding: 1rem;
+    background-color: #ef5921;
+    border-radius: 10px;
+}
+
+#menu {
+    padding-top: 3rem;
+    text-align: center;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Abel', sans-serif;
+}
+
+li a:link {
+    text-decoration: none;
+}
+
+li a:visited {
+    text-decoration: none;
+}
+
+li a:active {
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: none;
+}
+
